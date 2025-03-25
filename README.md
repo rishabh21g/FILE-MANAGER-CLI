@@ -51,6 +51,13 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature-name`)
 5. Open a pull request
 
+## Screenshot
+
+Here’s a preview of FileManager-X in action:
+
+![FileManager-X Screenshot](./filex.png)
+
+
 ## License
 
 This project is licensed under the MIT License.
